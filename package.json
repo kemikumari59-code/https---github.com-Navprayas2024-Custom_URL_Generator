@@ -12,13 +12,14 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/nathomkar799/np-custom-kemi/issues"
   },
   "homepage": "https://github.com/nathomkar799/np-custom-kemi#readme",
   "description": "",
   "dependencies": {
-    "express": "^5.2.1"
+    "express": "^5.2.1",
+    "mongoose": "^9.0.1"
   }
 }

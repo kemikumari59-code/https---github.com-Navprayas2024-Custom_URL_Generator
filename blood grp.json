@@ -1,0 +1,15 @@
+{
+"id": "blood_group",
+"type": "select",
+"required": true,
+"options": [
+"A+",
+"A-",
+"B+",
+"B-",
+"AB+",
+"AB-",
+"O+",
+"O-"
+]
+}

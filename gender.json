@@ -1,0 +1,10 @@
+{
+"id": "gender",
+"type": "datalist",
+"required": true,
+"options": [
+"Male",
+"Female",
+"Other"
+]
+}

@@ -1,0 +1,10 @@
+{
+"id": "course_duration",
+"type": "datalist",
+"required": true,
+"options": [
+"2",
+"3",
+"4"
+]
+}
